@@ -6,3 +6,9 @@
 * I have three older brothers
 * My birthday is March 3
 * I am a Pisces
+
+## Favorite Foods
+
+* Dumplings
+* Curry
+* Sushi
